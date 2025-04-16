@@ -1,0 +1,21 @@
+[16Apr2025 21:54:51.814] [main/INFO] [FabricLoader/GameProvider/]: Loading Minecraft 1.20.4 Arclight arclight-1.20.4-1.0.4-80ec5df with Fabric Loader 0.15.11
+mainEx[16Apr2025 21:54:51.992] [main/WARN] [FabricLoader/Resolution/]: Mod resolution failed
+mainEx[16Apr2025 21:54:51.993] [main/INFO] [FabricLoader/Resolution/]: Immediate reason: [HARD_DEP_NO_CANDIDATE cropariaplus 1.0.4 {depends croparia @ [>=4.1.1]}, ROOT_FORCELOAD_SINGLE cropariaplus 1.0.4]
+mainEx[16Apr2025 21:54:51.993] [main/INFO] [FabricLoader/Resolution/]: Reason: [HARD_DEP cropariaplus 1.0.4 {depends croparia @ [>=4.1.1]}, HARD_DEP soularia 1.2 {depends croparia @ [>=4.1.0]}]
+mainEx[16Apr2025 21:54:51.993] [main/INFO] [FabricLoader/Resolution/]: SERVER environment disabled: [fabric-renderer-api-v1, fabric-model-loading-api-v1, fabric-keybindings-v0, fabric-client-tags-api-v1, fabric-screen-api-v1, fabric-renderer-indigo, fabric-blockrenderlayer-v1, fabric-renderer-registries-v1, fabric-models-v0, fabric-sound-api-v1, fabric-rendering-v0, fabric-key-binding-api-v1, fabric-rendering-v1]
+mainEx[16Apr2025 21:54:51.994] [main/INFO] [FabricLoader/Resolution/]: Fix: add [add:croparia 4.1.1 ([[4.1.1,∞)])], remove [], replace []
+mainEx[16Apr2025 21:54:52.001] [main/ERROR] [FabricLoader/]: Incompatible mods found!
+mainEx net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
+A potential solution has been determined, this may resolve your problem:
+	 - Install croparia, version 4.1.1 or later.
+More details:
+	 - Mod 'Croparia+' (cropariaplus) 1.0.4 requires version 4.1.1 or later of croparia, which is missing!
+	 - Mod 'Soularia' (soularia) 1.2 requires version 4.1.0 or later of croparia, which is missing!
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:195) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:146) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.15.11.jar:?]
+	at io.izzel.arclight.boot.fabric.application.Main_Fabric.main(Main_Fabric.java:33) ~[arclight.jar:arclight-1.20.4-1.0.4-80ec5df]
+	at io.izzel.arclight.server.Launcher.main(Launcher.java:39) ~[arclight.jar:arclight-1.20.4-1.0.4-80ec5df]
