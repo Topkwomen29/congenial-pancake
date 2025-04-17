@@ -1,0 +1,1230 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-17 02:08:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-04-17 02:08:10 +0000",
+      "minecraft:forest": "2025-04-17 02:17:29 +0000",
+      "minecraft:river": "2025-04-17 02:16:31 +0000",
+      "minecraft:birch_forest": "2025-04-17 02:16:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 02:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 02:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-17 02:08:51 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_white": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_purple": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_orange": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_black": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_purple": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_lime": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_orange": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_light_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_light_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_white": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_clear": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_green": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_magenta": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_white": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_pink": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_lime": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_magenta": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_yellow": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_magenta": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_clear": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_magenta": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_pink": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_light_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_light_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_white": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_cyan": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_red": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_lime": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_cyan": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_cyan": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_light_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_yellow": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_black": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_red": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_green": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_black": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_clear": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_green": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_magenta": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_light_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_green": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_green": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_red": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_magenta": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_red": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_black": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_purple": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_black": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_brown": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_light_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_purple": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_yellow": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_light_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_lime": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_white": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_lime": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_red": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_brown": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_brown": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_light_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_red": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_black": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_light_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_birch": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_lime": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_green": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_brown": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_pink": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_purple": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_green": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_yellow": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_orange": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_light_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_brown": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_brown": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_red": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_orange": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_orange": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_clear": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_clear": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_orange": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_cyan": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_white": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_brown": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_yellow": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_black": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_white": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_clear": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_yellow": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_yellow": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_orange": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_clear": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_green": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_pink": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_purple": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_purple": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_pink": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_cyan": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_light_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_orange": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_white": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_pink": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_cyan": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_light_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_pink": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_magenta": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_cyan": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_yellow": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_red": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_ochre_greenhouse_light_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_clear": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_pearlescent_greenhouse_lime": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_black": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_sea_greenhouse_magenta": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_lime": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_light_gray": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_glowstone_greenhouse_light_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_redstone_greenhouse_cyan": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_purple": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_shroomlight_greenhouse_brown": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_jar_pink": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "cropariaplus:recipes/decorations/birch_verdant_greenhouse_blue": {
+    "criteria": {
+      "has_birch_planks": "2025-04-17 02:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-17 02:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-17 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-04-17 02:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-17 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_ink": {
+    "criteria": {
+      "has_ink_sac": "2025-04-17 02:16:36 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_raw_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-17 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-04-17 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-04-17 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-17 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-17 02:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-17 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-17 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-17 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-17 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-17 02:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-17 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-04-17 02:14:26 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_raw_porc": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-04-17 02:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-17 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-04-17 02:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-17 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-04-17 02:14:26 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/decorations/greenhouse": {
+    "criteria": {
+      "has_stick": "2025-04-17 02:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-17 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-17 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-04-17 02:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-17 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2025-04-17 02:17:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-17 02:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-17 02:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-17 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-17 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}
