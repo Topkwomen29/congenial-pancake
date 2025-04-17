@@ -6332,4 +6332,181 @@ Server threadEx[17Apr2025 01:29:32.789] [Server thread/DEBUG] [Implementer/SWITC
 Server threadEx[17Apr2025 01:29:35.532] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=72, y=74, z=-100}
 Server threadEx[17Apr2025 01:29:54.845] [Server thread/INFO] [net.minecraft.class_3244/]: Sevada4u1 lost connection: Disconnected
 Server threadEx[17Apr2025 01:29:54.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sevada4u1 left the game
+Server threadEx[17Apr2025 01:57:08.191] [User Authenticator #4/INFO] [net.minecraft.class_3248/]: UUID of player TopkWoman is e55c05ce-2664-3243-98b0-1a091269f3fa
+User Authenticator #4Ex[17Apr2025 01:57:08.809] [Netty Epoll Server IO #6/DEBUG] [ServerConfigurationNetworkAddon for TopkWoman/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.809] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:command_argument_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.809] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Syncing registry: minecraft:item
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Syncing registry: minecraft:block_entity_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:number_format_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:stat_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:fluid
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:frog_variant
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:mob_effect
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:enchantment
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/pool_alias_binding
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:entity_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_profession
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:cat_variant
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:menu
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.812] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Syncing registry: minecraft:sound_event
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.813] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:particle_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.813] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:game_event
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.813] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.813] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.813] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.813] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:painting_variant
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.813] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.813] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Syncing registry: minecraft:block
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.815] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:trigger_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.815] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.815] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:08.815] [Netty Epoll Server IO #6/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:09.350] [Netty Epoll Server IO #6/DEBUG] [ServerConfigurationNetworkAddon for TopkWoman/]: Handling inbound packet from channel with name "fabric:registry/sync/complete"
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:09.732] [Netty Epoll Server IO #6/DEBUG] [ServerConfigurationNetworkAddon for TopkWoman/]: Handling inbound packet from channel with name "c:version"
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:09.732] [Netty Epoll Server IO #6/DEBUG] [ServerConfigurationNetworkAddon for TopkWoman/]: Negotiated common packet version 1
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:09.918] [Netty Epoll Server IO #6/DEBUG] [ServerConfigurationNetworkAddon for TopkWoman/]: Handling inbound packet from channel with name "c:register"
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:09.918] [Netty Epoll Server IO #6/DEBUG] [fabric-networking-api-v1/]: Received accepted channels from the client for play phase
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:10.104] [Netty Epoll Server IO #6/DEBUG] [ServerConfigurationNetworkAddon for TopkWoman/]: Handling inbound packet from channel with name "fabric:custom_ingredient_sync"
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:10.321] [Server thread/INFO] [net.minecraft.class_3324/]: TopkWoman[/127.171.103.7:60839] logged in with entity id 298 at (68.40540722084998, 79.0, -98.70038105348723)
+Server threadEx[17Apr2025 01:57:10.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TopkWoman joined the game
+Server threadEx[17Apr2025 01:57:11.147] [Netty Epoll Server IO #6/DEBUG] [ServerPlayNetworkAddon for literal{TopkWoman}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell TopkWoman '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@79da8537],insertion=TopkWoman}]/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #6Ex[17Apr2025 01:57:33.088] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=76, z=-98}
+Server threadEx[17Apr2025 01:57:35.137] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=64, y=77, z=-98}
+Server threadEx[17Apr2025 01:57:38.486] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=62, y=77, z=-100}
+Server threadEx[17Apr2025 01:57:38.597] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=62, y=77, z=-101}
+Server threadEx[17Apr2025 01:57:40.196] [Server thread/INFO] [net.minecraft.class_3244/]: TopkWoman lost connection: Disconnected
+Server threadEx[17Apr2025 01:57:40.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TopkWoman left the game
+Server threadEx[17Apr2025 02:02:37.063] [User Authenticator #5/INFO] [net.minecraft.class_3248/]: UUID of player TopkWoman is e55c05ce-2664-3243-98b0-1a091269f3fa
+User Authenticator #5Ex[17Apr2025 02:02:37.652] [Netty Epoll Server IO #0/DEBUG] [ServerConfigurationNetworkAddon for TopkWoman/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.653] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:command_argument_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.653] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Syncing registry: minecraft:item
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Syncing registry: minecraft:block_entity_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:number_format_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:stat_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:fluid
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:frog_variant
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.655] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:mob_effect
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:enchantment
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/pool_alias_binding
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:entity_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_profession
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:cat_variant
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:menu
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Syncing registry: minecraft:sound_event
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:particle_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:game_event
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:painting_variant
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.656] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Syncing registry: minecraft:block
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.658] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:trigger_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.658] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.658] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:37.658] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:38.073] [Netty Epoll Server IO #0/DEBUG] [ServerConfigurationNetworkAddon for TopkWoman/]: Handling inbound packet from channel with name "fabric:registry/sync/complete"
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:38.426] [Netty Epoll Server IO #0/DEBUG] [ServerConfigurationNetworkAddon for TopkWoman/]: Handling inbound packet from channel with name "c:version"
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:38.427] [Netty Epoll Server IO #0/DEBUG] [ServerConfigurationNetworkAddon for TopkWoman/]: Negotiated common packet version 1
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:38.599] [Netty Epoll Server IO #0/DEBUG] [ServerConfigurationNetworkAddon for TopkWoman/]: Handling inbound packet from channel with name "c:register"
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:38.600] [Netty Epoll Server IO #0/DEBUG] [fabric-networking-api-v1/]: Received accepted channels from the client for play phase
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:38.773] [Netty Epoll Server IO #0/DEBUG] [ServerConfigurationNetworkAddon for TopkWoman/]: Handling inbound packet from channel with name "fabric:custom_ingredient_sync"
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:38.950] [Server thread/INFO] [net.minecraft.class_3324/]: TopkWoman[/127.171.103.7:58525] logged in with entity id 371 at (62.16676833720192, 78.0, -99.69576088947507)
+Server threadEx[17Apr2025 02:02:38.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TopkWoman joined the game
+Server threadEx[17Apr2025 02:02:39.496] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{TopkWoman}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell TopkWoman '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@79da8537],insertion=TopkWoman}]/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #0Ex[17Apr2025 02:02:42.034] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+Server threadEx[17Apr2025 02:02:42.036] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.level.block.PortalShapeMixin from mixins.arclight.core.json into net.minecraft.class_2424
+Server threadEx[17Apr2025 02:02:42.036] [Server thread/DEBUG] [FabricLoader/Mixin/]: Renaming synthetic method lambda$arclight$buildPortal$0(Lnet/minecraft/class_2680;Lnet/minecraft/class_2338;)V to md12bceb$arclight$lambda$arclight$buildPortal$0$0 in mixins.arclight.core.json:world.level.block.PortalShapeMixin from mod arclight
+Server threadEx[17Apr2025 02:02:42.039] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.PortalShapeMixin from mod arclight->@Inject::arclight$buildPortal(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+Server threadEx[17Apr2025 02:02:45.619] [Server console handler/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/jline/reader/impl/LineReaderImpl$3
+Server console handlerEx[17Apr2025 02:02:48.041] [Server console handler/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/jline/terminal/impl/MouseSupport$1
+Server console handlerEx[17Apr2025 02:02:48.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made TopkWoman a server operator
+Server threadEx[17Apr2025 02:02:54.602] [Server thread/INFO] [net.minecraft.class_3244/]: TopkWoman issued server command: /gamemode creative
+Server threadEx[17Apr2025 02:02:54.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TopkWoman: Set own game mode to Creative Mode]
 Server threadEx

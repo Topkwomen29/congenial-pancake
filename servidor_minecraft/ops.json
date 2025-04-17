@@ -4,5 +4,11 @@
     "name": "TopkWomen",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e55c05ce-2664-3243-98b0-1a091269f3fa",
+    "name": "TopkWoman",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

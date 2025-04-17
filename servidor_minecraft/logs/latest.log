@@ -240,4 +240,15 @@ User Authenticator #3Ex[17Apr2025 01:29:30.100] [Server thread/INFO] [net.minecr
 Server threadEx[17Apr2025 01:29:30.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sevada4u1 joined the game
 Server threadEx[17Apr2025 01:29:54.845] [Server thread/INFO] [net.minecraft.class_3244/]: Sevada4u1 lost connection: Disconnected
 Server threadEx[17Apr2025 01:29:54.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sevada4u1 left the game
+Server threadEx[17Apr2025 01:57:08.191] [User Authenticator #4/INFO] [net.minecraft.class_3248/]: UUID of player TopkWoman is e55c05ce-2664-3243-98b0-1a091269f3fa
+User Authenticator #4Ex[17Apr2025 01:57:10.321] [Server thread/INFO] [net.minecraft.class_3324/]: TopkWoman[/127.171.103.7:60839] logged in with entity id 298 at (68.40540722084998, 79.0, -98.70038105348723)
+Server threadEx[17Apr2025 01:57:10.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TopkWoman joined the game
+Server threadEx[17Apr2025 01:57:40.196] [Server thread/INFO] [net.minecraft.class_3244/]: TopkWoman lost connection: Disconnected
+Server threadEx[17Apr2025 01:57:40.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TopkWoman left the game
+Server threadEx[17Apr2025 02:02:37.063] [User Authenticator #5/INFO] [net.minecraft.class_3248/]: UUID of player TopkWoman is e55c05ce-2664-3243-98b0-1a091269f3fa
+User Authenticator #5Ex[17Apr2025 02:02:38.950] [Server thread/INFO] [net.minecraft.class_3324/]: TopkWoman[/127.171.103.7:58525] logged in with entity id 371 at (62.16676833720192, 78.0, -99.69576088947507)
+Server threadEx[17Apr2025 02:02:38.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TopkWoman joined the game
+Server threadEx[17Apr2025 02:02:48.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made TopkWoman a server operator
+Server threadEx[17Apr2025 02:02:54.602] [Server thread/INFO] [net.minecraft.class_3244/]: TopkWoman issued server command: /gamemode creative
+Server threadEx[17Apr2025 02:02:54.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TopkWoman: Set own game mode to Creative Mode]
 Server threadEx
