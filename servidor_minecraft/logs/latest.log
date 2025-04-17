@@ -274,4 +274,11 @@ Server threadEx[17Apr2025 02:18:00.894] [Async Chat Thread - #2/INFO] [net.minec
 Async Chat Thread - #2Ex[17Apr2025 02:19:17.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Felix0609 has made the advancement [Stone Age]
 Server threadEx[17Apr2025 02:20:44.546] [Server thread/INFO] [net.minecraft.class_3244/]: Felix0609 lost connection: Disconnected
 Server threadEx[17Apr2025 02:20:44.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Felix0609 left the game
+Server threadEx[17Apr2025 02:43:53.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+Server threadEx[17Apr2025 02:43:54.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+Server threadEx[17Apr2025 02:43:54.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+Server threadEx[17Apr2025 02:43:54.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+Server threadEx[17Apr2025 02:43:54.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+Server threadEx[17Apr2025 02:43:56.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+Server threadEx[17Apr2025 02:43:56.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
 Server threadEx
